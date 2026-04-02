@@ -23,5 +23,4 @@ public class CallingMethodsInSameClass
 		printOne();
 	}
 }
-adding extra code here 
-	Hi im aswini
+
