@@ -24,3 +24,4 @@ public class CallingMethodsInSameClass
 	}
 }
 adding extra code here 
+	Hi im aswini
